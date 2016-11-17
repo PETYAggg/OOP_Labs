@@ -1,0 +1,4 @@
+﻿  main.cpp
+d:\try\oop_labs_6\oop_labs_6\ticket.h(175): warning C4018: <: несоответствие типов со знаком и без знака
+  OOP_LABS_6.vcxproj -> D:\TRY\OOP_LABS_6\Debug\OOP_LABS_6.exe
+  OOP_LABS_6.vcxproj -> D:\TRY\OOP_LABS_6\Debug\OOP_LABS_6.pdb (Partial PDB)
