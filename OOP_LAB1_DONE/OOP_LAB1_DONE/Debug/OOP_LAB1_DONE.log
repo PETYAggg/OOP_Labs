@@ -1,0 +1,8 @@
+﻿  main.cpp
+  functions.cpp
+d:\try\oop_lab1_done\oop_lab1_done\functions.cpp(156): warning C4473: "printf": передано недостаточно аргументов для строки формата
+  d:\try\oop_lab1_done\oop_lab1_done\functions.cpp(156): note: заполнители и их параметры ожидают переменное число аргументов в количестве 2, но было предоставлено 1
+  d:\try\oop_lab1_done\oop_lab1_done\functions.cpp(156): note: отсутствующий вариативный аргумент "2" требуется для строки форматирования "%s"
+  Создание кода...
+  OOP_LAB1_DONE.vcxproj -> D:\TRY\OOP_LAB1_DONE\Debug\OOP_LAB1_DONE.exe
+  OOP_LAB1_DONE.vcxproj -> D:\TRY\OOP_LAB1_DONE\Debug\OOP_LAB1_DONE.pdb (Partial PDB)
