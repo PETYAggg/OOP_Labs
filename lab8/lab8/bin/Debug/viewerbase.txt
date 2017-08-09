@@ -1,0 +1,3 @@
+petro 1 1
+andrian 4 4
+kok 1 1

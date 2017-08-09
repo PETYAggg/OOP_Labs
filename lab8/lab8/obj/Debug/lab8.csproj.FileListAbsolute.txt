@@ -1,0 +1,6 @@
+D:\TRY\lab8\lab8\bin\Debug\lab8.exe.config
+D:\TRY\lab8\lab8\bin\Debug\lab8.exe
+D:\TRY\lab8\lab8\bin\Debug\lab8.pdb
+D:\TRY\lab8\lab8\obj\Debug\lab8.exe
+D:\TRY\lab8\lab8\obj\Debug\lab8.pdb
+D:\TRY\lab8\lab8\obj\Debug\lab8.csprojResolveAssemblyReference.cache
